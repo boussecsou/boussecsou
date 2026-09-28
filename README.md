@@ -1,18 +1,5 @@
-### Ali Boussecsou
+## Ali Boussecsou
 
-     /\_/\  
-    ( o.o )   compiling curiosity...
-     > ^ <
-     
-     [ AI ] + [ C++ ] + [ Systems ] + [ Curiosity ]
-                    |
-                    v
-              useful things
-              
-while (alive) {
-    learn();
-    build();
-    love();
-    cry();
-    question_everything();
-}
+### La; la-la-la; la-lala-lala-lala; 2s; la-lala-lala-lala; la-lalala.
+
+*-*
