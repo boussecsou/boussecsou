@@ -1,3 +1,7 @@
+<picture>
+  <img alt="Ali — banner" src="assets/banner-light.svg" width="100%">
+</picture>
+
 # Hi, I'm Ali 👋
 
 I'm based in Morocco, learning AI governance, risk management,
