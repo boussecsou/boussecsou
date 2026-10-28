@@ -1,13 +1,30 @@
-# Hi, I'm Ali 👋
+<p align="center">
+  <img src="./assets/banner-light.svg#gh-light-mode-only" alt="Ali Boussecsou, Aspiring AI Systems Architect" width="100%" />
+  <img src="./assets/banner-dark.svg#gh-dark-mode-only" alt="Ali Boussecsou, Aspiring AI Systems Architect" width="100%" />
+</p>
 
-I'm based in Morocco, learning AI governance, risk management,
-and how AI systems are built and deployed.
+<p align="center">
+  <strong>Designing systems beyond the model.</strong><br>
+  AI Agents · Systems Engineering · Security &amp; Governance
+</p>
 
-I’m developing my technical skills through hands-on projects
-with C++, Python, and Azure.
+<p align="center">
+  <img src="./assets/hero-light.svg#gh-light-mode-only" alt="about.cpp: Ali, aspiring AI systems architect, based in Morocco, focused on agents, governance and AI, learning" width="100%" />
+  <img src="./assets/hero-dark.svg#gh-dark-mode-only" alt="about.cpp: Ali, aspiring AI systems architect, based in Morocco, focused on agents, governance and AI, learning" width="100%" />
+</p>
 
-Interested in contributing to AI projects and exploring
-internship opportunities.
+<p align="center">
+  <img src="./assets/label-connect-light.svg#gh-light-mode-only" alt="connect" width="100%" />
+  <img src="./assets/label-connect-dark.svg#gh-dark-mode-only" alt="connect" width="100%" />
+</p>
 
-## Selected projects
-Coming soon — currently documenting my work.
+<p align="center">
+  <a href="https://github.com/boussecsou"><img src="./assets/btn-github.svg" alt="GitHub: github.com/boussecsou" width="320" /></a>
+</p>
+
+<p align="center"><sub><a href="./MoreInfo.md">more info</a></sub></p>
+
+<p align="center">
+  <img src="./assets/footer-light.svg#gh-light-mode-only" alt="end of file. bye, anomaly." width="100%" />
+  <img src="./assets/footer-dark.svg#gh-dark-mode-only" alt="end of file. bye, anomaly." width="100%" />
+</p>
