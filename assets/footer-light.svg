@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" width="800" height="170" role="img"><title>end of file</title><style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #0f0f0f; } .muted { fill: #6b6880; }
+    .purple { fill: #8b5cf6; } .b { font-weight: 700; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes twinkle { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes eyes { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
+    @keyframes sweep { from { transform: translateX(-200px); } to { transform: translateX(800px); } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style><line x1="0" y1="12" x2="800" y2="12" stroke="#e3dcf7" stroke-width="2"/>
+    <g transform="translate(40 28) scale(0.9)"><g style="animation: bob 3.2s ease-in-out infinite;">
+      <rect x="0" y="0" width="76" height="44" rx="5" fill="#161616"/>
+      <rect x="0" y="0" width="76" height="8" rx="3" fill="#9a9a9a" opacity=".55"/>
+      <g style="transform-box: fill-box; transform-origin: center; animation: eyes 4.5s infinite;">
+        <rect x="16" y="20" width="11" height="11" fill="#ffffff"/>
+        <rect x="49" y="20" width="11" height="11" fill="#ffffff"/>
+      </g>
+      <rect x="18" y="44" width="40" height="40" rx="6" fill="#222222"/>
+      <rect x="14" y="84" width="22" height="34" rx="4" fill="#3d3d3d"/>
+      <rect x="40" y="84" width="22" height="34" rx="4" fill="#3d3d3d"/>
+    </g></g><text x="150" y="80" font-size="24" class="ink b">end of file.</text><text x="150" y="114" font-size="20" class="muted">bye, anomaly.</text><rect x="322" y="98" width="11" height="22" fill="#c6f400" style="animation: blink 1.1s step-end infinite;"/><text x="690" y="60" font-size="20" class="muted" style="animation: twinkle 3s ease-in-out 0.3s infinite;">*</text><text x="740" y="100" font-size="14" class="muted" style="animation: twinkle 3s ease-in-out 1.3s infinite;">*</text><text x="620" y="120" font-size="16" class="muted" style="animation: twinkle 3s ease-in-out 0.8s infinite;">*</text></svg>

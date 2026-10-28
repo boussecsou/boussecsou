@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 320" width="272" height="320" role="img"><title>Modern C++</title><style>
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .ink { fill: #f2f0fa; } .muted { fill: #9b98b3; }
+    .purple { fill: #a78bfa; } .b { font-weight: 700; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes twinkle { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    @keyframes bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes eyes { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    @keyframes nudge { 0%,100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
+    @keyframes sweep { from { transform: translateX(-200px); } to { transform: translateX(272px); } }
+    
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style><rect x="1" y="1" width="270" height="318" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/><circle cx="244" cy="30" r="9" fill="#d2ff3a" stroke="#f2f0fa" stroke-width="2" style="animation: pulse 2.4s ease-in-out infinite;"/><g transform="translate(76 34)"><text x="60" y="76" font-size="50" font-weight="700" text-anchor="middle" fill="#f2f0fa">C<tspan fill="#a78bfa">++</tspan></text><rect x="26" y="90" width="68" height="6" rx="3" fill="#d2ff3a"/></g><text x="136" y="212" font-size="28" text-anchor="middle" class="ink b">Modern C++</text><text x="136" y="248" font-size="21" text-anchor="middle" class="muted">CMake · Git</text><text x="136" y="278" font-size="21" text-anchor="middle" class="muted">std::expected</text></svg>
