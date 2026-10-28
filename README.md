@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Ali — banner" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Ali — banner" src="assets/banner-light.svg#gh-light-mode-only" width="100%">
+<img alt="Ali — banner" src="assets/banner-dark.svg#gh-dark-mode-only" width="100%">
 
 # Hi, I'm Ali 👋
 
